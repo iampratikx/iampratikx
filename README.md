@@ -7,7 +7,7 @@
 <h1 align="center">Hi, I'm Pratik Chavan! 👋</h1>
 
 <p align="center" style="font-size:1.05em">
-  <b>🚀 Data Science</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
+  <b>🚀 Data Science</b> &nbsp;|&nbsp; <b> Machine Learning</b> &nbsp;|&nbsp; <b>📈 Aspiring Data Analyst</b> &nbsp;|&nbsp; <b>🧠 Python & Power BI</b>
 </p>
 
 ---
