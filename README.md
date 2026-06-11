@@ -63,9 +63,3 @@ flowchart TD
 > Trying to make tech more fun, fast, and fail-proof—one commit at a time.
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyclF1b2RuMGRyY3MzYTFxeHc0YWNvb3VlbwktOdmlmc3Cobz7d4g/giphy.gif" height="100" alt="Confetti animation">
-  <br>
-  <sub><i>Modern Analyst + DataScience by Pratik Chavan</i></sub>
-</div>
